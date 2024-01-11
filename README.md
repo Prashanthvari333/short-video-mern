@@ -1,2 +1,2 @@
 # short-video-mern
-a full stack web application with mern ,videos displayed in frontend loaded from backend database
+Developed a full-stack web application using the MERN stack. This app allows users to watch videos displayed on the frontend, with the content being loaded dynamically from the backend database. Leveraging MongoDB for data storage, Express.js for the server, React for the frontend, and Node.js for backend runtime, the application provides a seamless and responsive experience for users to explore and enjoy various videos. This project demonstrates my proficiency in building a complete web solution, handling both frontend and backend aspects to create an engaging video platform.
